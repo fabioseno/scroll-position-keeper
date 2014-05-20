@@ -1,0 +1,15 @@
+{
+  "name": "scroll-position-keeper",
+  "version": "0.1.0",
+  "authors": [
+    "Fábio Akira Yoshida <fabioseno@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
